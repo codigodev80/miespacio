@@ -1,0 +1,1430 @@
+{
+  "01-01": {
+    "texto": "Porque yo sé los pensamientos que tengo acerca de vosotros, dice el Señor, pensamientos de paz y no de mal.",
+    "cita": "Jeremías 29:11"
+  },
+  "01-02": {
+    "texto": "Confía en el Señor con todo tu corazón, y no te apoyes en tu propio entendimiento.",
+    "cita": "Proverbios 3:5"
+  },
+  "01-03": {
+    "texto": "Reconócelo en todos tus caminos, y él enderezará tus sendas.",
+    "cita": "Proverbios 3:6"
+  },
+  "01-04": {
+    "texto": "Todo lo puedo en Cristo que me fortalece.",
+    "cita": "Filipenses 4:13"
+  },
+  "01-05": {
+    "texto": "El Señor es mi pastor; nada me faltará.",
+    "cita": "Salmo 23:1"
+  },
+  "01-06": {
+    "texto": "Tu palabra es una lámpara a mis pies y una luz en mi camino.",
+    "cita": "Salmo 119:105"
+  },
+  "01-07": {
+    "texto": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios.",
+    "cita": "Isaías 41:10"
+  },
+  "01-08": {
+    "texto": "Pon en manos del Señor todas tus obras, y tus proyectos se cumplirán.",
+    "cita": "Proverbios 16:3"
+  },
+  "01-09": {
+    "texto": "Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración.",
+    "cita": "Filipenses 4:6"
+  },
+  "01-10": {
+    "texto": "Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones.",
+    "cita": "Filipenses 4:7"
+  },
+  "01-11": {
+    "texto": "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.",
+    "cita": "Mateo 6:33"
+  },
+  "01-12": {
+    "texto": "No te preocupes por el día de mañana, porque el mañana traerá sus propias preocupaciones.",
+    "cita": "Mateo 6:34"
+  },
+  "01-13": {
+    "texto": "El Señor es mi luz y mi salvación; ¿de quién temeré? El Señor es la fortaleza de mi vida.",
+    "cita": "Salmo 27:1"
+  },
+  "01-14": {
+    "texto": "Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá.",
+    "cita": "Mateo 7:7"
+  },
+  "01-15": {
+    "texto": "Estad quietos, y conoced que yo soy Dios; seré exaltado entre las naciones.",
+    "cita": "Salmo 46:10"
+  },
+  "01-16": {
+    "texto": "Sobre toda cosa guardada, guarda tu corazón; porque de él mana la vida.",
+    "cita": "Proverbios 4:23"
+  },
+  "01-17": {
+    "texto": "El amor es sufrido, es benigno; el amor no tiene envidia; el amor no es jactancioso.",
+    "cita": "1 Corintios 13:4"
+  },
+  "01-18": {
+    "texto": "La blanda respuesta quita la ira; mas la palabra áspera hace subir el furor.",
+    "cita": "Proverbios 15:1"
+  },
+  "01-19": {
+    "texto": "Dad gracias en todo, porque esta es la voluntad de Dios para con vosotros en Cristo Jesús.",
+    "cita": "1 Tesalonicenses 5:18"
+  },
+  "01-20": {
+    "texto": "Jehová es bueno, fortaleza en el día de la angustia; y conoce a los que en él confían.",
+    "cita": "Nahúm 1:7"
+  },
+  "01-21": {
+    "texto": "El que camina en integridad anda confiado; mas el que pervierte sus caminos será quebrantado.",
+    "cita": "Proverbios 10:9"
+  },
+  "01-22": {
+    "texto": "Bueno es el Señor para con los que en él esperan, para el alma que le busca.",
+    "cita": "Lamentaciones 3:25"
+  },
+  "01-23": {
+    "texto": "De cierto, de cierto os digo: El que cree en mí, tiene vida eterna.",
+    "cita": "Juan 6:47"
+  },
+  "01-24": {
+    "texto": "Acerquémonos, pues, confiadamente al trono de la gracia, para alcanzar misericordia.",
+    "cita": "Hebreos 4:16"
+  },
+  "01-25": {
+    "texto": "Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí.",
+    "cita": "Salmo 51:10"
+  },
+  "01-26": {
+    "texto": "El Señor es mi fuerza y mi escudo; en él confió mi corazón, y fui ayudado.",
+    "cita": "Salmo 28:7"
+  },
+  "01-27": {
+    "texto": "Jehová cumplirá su propósito en mí; tu misericordia, oh Jehová, es para siempre.",
+    "cita": "Salmo 138:8"
+  },
+  "01-28": {
+    "texto": "Acerquémonos con corazón sincero, en plena certidumbre de fe.",
+    "cita": "Hebreos 10:22"
+  },
+  "01-29": {
+    "texto": "Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de dominio propio.",
+    "cita": "2 Timoteo 1:7"
+  },
+  "01-30": {
+    "texto": "El nombre del Señor es una torre fuerte; a ella corre el justo y está a salvo.",
+    "cita": "Proverbios 18:10"
+  },
+  "01-31": {
+    "texto": "El Señor guardará tu salida y tu entrada desde ahora y para siempre.",
+    "cita": "Salmo 121:8"
+  },
+  "02-01": {
+    "texto": "Alzaré mis ojos a los montes; ¿de dónde vendrá mi socorro? Mi socorro viene del Señor.",
+    "cita": "Salmo 121:1-2"
+  },
+  "02-02": {
+    "texto": "No se turbe vuestro corazón; creéis en Dios, creed también en mí.",
+    "cita": "Juan 14:1"
+  },
+  "02-03": {
+    "texto": "La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da.",
+    "cita": "Juan 14:27"
+  },
+  "02-04": {
+    "texto": "Este es el día que hizo el Señor; nos gozaremos y alegraremos en él.",
+    "cita": "Salmo 118:24"
+  },
+  "02-05": {
+    "texto": "Mas a todos los que le recibieron, a los que creen en su nombre, les dio potestad de ser hechos hijos de Dios.",
+    "cita": "Juan 1:12"
+  },
+  "02-06": {
+    "texto": "Clama a mí, y yo te responderé, y te enseñaré cosas grandes y ocultas que tú no conoces.",
+    "cita": "Jeremías 33:3"
+  },
+  "02-07": {
+    "texto": "Deléitate asimismo en el Señor, y él te concederá las peticiones de tu corazón.",
+    "cita": "Salmo 37:4"
+  },
+  "02-08": {
+    "texto": "Encomienda al Señor tu camino, y confía en él; y él hará.",
+    "cita": "Salmo 37:5"
+  },
+  "02-09": {
+    "texto": "Guarda silencio ante el Señor, y espera en él con paciencia.",
+    "cita": "Salmo 37:7"
+  },
+  "02-10": {
+    "texto": "Porque un momento será su ira, pero su favor dura toda la vida. Por la noche durará el lloro, y a la mañana vendrá la alegría.",
+    "cita": "Salmo 30:5"
+  },
+  "02-11": {
+    "texto": "Gustad, y ved que es bueno el Señor; dichoso el hombre que confía en él.",
+    "cita": "Salmo 34:8"
+  },
+  "02-12": {
+    "texto": "Cercano está el Señor a los quebrantados de corazón; y salva a los contritos de espíritu.",
+    "cita": "Salmo 34:18"
+  },
+  "02-13": {
+    "texto": "Muchas son las aflicciones del justo, pero de todas ellas le librará el Señor.",
+    "cita": "Salmo 34:19"
+  },
+  "02-14": {
+    "texto": "El amor sea sin fingimiento. Aborreced lo malo, seguid lo bueno.",
+    "cita": "Romanos 12:9"
+  },
+  "02-15": {
+    "texto": "Amados, amémonos unos a otros; porque el amor es de Dios.",
+    "cita": "1 Juan 4:7"
+  },
+  "02-16": {
+    "texto": "En esto se mostró el amor de Dios para con nosotros, en que Dios envió a su Hijo unigénito al mundo.",
+    "cita": "1 Juan 4:9"
+  },
+  "02-17": {
+    "texto": "En el amor no hay temor, sino que el perfecto amor echa fuera el temor.",
+    "cita": "1 Juan 4:18"
+  },
+  "02-18": {
+    "texto": "Nosotros le amamos a él, porque él nos amó primero.",
+    "cita": "1 Juan 4:19"
+  },
+  "02-19": {
+    "texto": "Y nosotros hemos conocido y creído el amor que Dios tiene para con nosotros. Dios es amor.",
+    "cita": "1 Juan 4:16"
+  },
+  "02-20": {
+    "texto": "Si Dios es por nosotros, ¿quién contra nosotros?",
+    "cita": "Romanos 8:31"
+  },
+  "02-21": {
+    "texto": "Antes, en todas estas cosas somos más que vencedores por medio de aquel que nos amó.",
+    "cita": "Romanos 8:37"
+  },
+  "02-22": {
+    "texto": "Por lo cual estoy seguro de que ni la muerte, ni la vida... nos podrá separar del amor de Dios.",
+    "cita": "Romanos 8:38-39"
+  },
+  "02-23": {
+    "texto": "Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien.",
+    "cita": "Romanos 8:28"
+  },
+  "02-24": {
+    "texto": "Justificados, pues, por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo.",
+    "cita": "Romanos 5:1"
+  },
+  "02-25": {
+    "texto": "Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros.",
+    "cita": "Romanos 5:8"
+  },
+  "02-26": {
+    "texto": "Porque la paga del pecado es muerte, mas la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro.",
+    "cita": "Romanos 6:23"
+  },
+  "02-27": {
+    "texto": "Si confiesas con tu boca que Jesús es el Señor... serás salvo.",
+    "cita": "Romanos 10:9"
+  },
+  "02-28": {
+    "texto": "Porque todo aquel que invocare el nombre del Señor, será salvo.",
+    "cita": "Romanos 10:13"
+  },
+  "02-29": {
+    "texto": "Jesucristo es el mismo ayer, y hoy, y por los siglos.",
+    "cita": "Hebreos 13:8"
+  },
+  "03-01": {
+    "texto": "Lámpara es a mis pies tu palabra, y lumbre a mi camino.",
+    "cita": "Salmo 119:105"
+  },
+  "03-02": {
+    "texto": "Fiel es el que os llama, el cual también lo hará.",
+    "cita": "1 Tesalonicenses 5:24"
+  },
+  "03-03": {
+    "texto": "Estad siempre gozosos. Orad sin cesar.",
+    "cita": "1 Tesalonicenses 5:16-17"
+  },
+  "03-04": {
+    "texto": "Someteos, pues, a Dios; resistid al diablo, y huirá de vosotros.",
+    "cita": "Santiago 4:7"
+  },
+  "03-05": {
+    "texto": "Acercaos a Dios, y él se acercará a vosotros.",
+    "cita": "Santiago 4:8"
+  },
+  "03-06": {
+    "texto": "Humillaos delante del Señor, y él os exaltará.",
+    "cita": "Santiago 4:10"
+  },
+  "03-07": {
+    "texto": "Por tanto, confesad vuestros pecados unos a otros, y orad unos por otros para que seáis sanados.",
+    "cita": "Santiago 5:16"
+  },
+  "03-08": {
+    "texto": "La oración eficaz del justo puede mucho.",
+    "cita": "Santiago 5:16"
+  },
+  "03-09": {
+    "texto": "Hermanos míos, tened por sumo gozo cuando os halléis en diversas pruebas.",
+    "cita": "Santiago 1:2"
+  },
+  "03-10": {
+    "texto": "Sabiendo que la prueba de vuestra fe produce paciencia.",
+    "cita": "Santiago 1:3"
+  },
+  "03-11": {
+    "texto": "Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente.",
+    "cita": "Santiago 1:5"
+  },
+  "03-12": {
+    "texto": "Bienaventurado el varón que soporta la tentación; porque cuando haya resistido la prueba, recibirá la corona de vida.",
+    "cita": "Santiago 1:12"
+  },
+  "03-13": {
+    "texto": "Toda buena dádiva y todo don perfecto desciende de lo alto, del Padre de las luces.",
+    "cita": "Santiago 1:17"
+  },
+  "03-14": {
+    "texto": "Por esto, mis amados hermanos, todo hombre sea pronto para oír, tardo para hablar, tardo para airarse.",
+    "cita": "Santiago 1:19"
+  },
+  "03-15": {
+    "texto": "Pero sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos.",
+    "cita": "Santiago 1:22"
+  },
+  "03-16": {
+    "texto": "La religión pura y sin mácula delante de Dios el Padre es esta: Visitar a los huérfanos y a las viudas.",
+    "cita": "Santiago 1:27"
+  },
+  "03-17": {
+    "texto": "Así también la fe, si no tiene obras, es muerta en sí misma.",
+    "cita": "Santiago 2:17"
+  },
+  "03-18": {
+    "texto": "Tú crees que Dios es uno; bien haces. También los demonios creen, y tiemblan.",
+    "cita": "Santiago 2:19"
+  },
+  "03-19": {
+    "texto": "La lengua es un miembro pequeño, pero se jacta de grandes cosas. ¡Cuán grande bosque enciende un pequeño fuego!",
+    "cita": "Santiago 3:5"
+  },
+  "03-20": {
+    "texto": "Pero la sabiduría que es de lo alto es primeramente pura, después pacífica, amable, benigna.",
+    "cita": "Santiago 3:17"
+  },
+  "03-21": {
+    "texto": "Y el fruto de justicia se siembra en paz para aquellos que hacen la paz.",
+    "cita": "Santiago 3:18"
+  },
+  "03-22": {
+    "texto": "¿De dónde vienen las guerras y los pleitos entre vosotros? ¿No es de vuestras pasiones?",
+    "cita": "Santiago 4:1"
+  },
+  "03-23": {
+    "texto": "Pedís, y no recibís, porque pedís mal, para gastar en vuestros deleites.",
+    "cita": "Santiago 4:3"
+  },
+  "03-24": {
+    "texto": "¡Oh almas adúlteras! ¿No sabéis que la amistad del mundo es enemistad contra Dios?",
+    "cita": "Santiago 4:4"
+  },
+  "03-25": {
+    "texto": "Dios resiste a los soberbios, y da gracia a los humildes.",
+    "cita": "Santiago 4:6"
+  },
+  "03-26": {
+    "texto": "Alentaos los unos a los otros, y edificaos unos a otros, así como lo hacéis.",
+    "cita": "1 Tesalonicenses 5:11"
+  },
+  "03-27": {
+    "texto": "Mirad que ninguno pague a otro mal por mal; antes seguid siempre lo bueno unos para con otros.",
+    "cita": "1 Tesalonicenses 5:15"
+  },
+  "03-28": {
+    "texto": "Examinadlo todo; retened lo bueno. Absteneos de toda especie de mal.",
+    "cita": "1 Tesalonicenses 5:21-22"
+  },
+  "03-29": {
+    "texto": "Y el mismo Dios de paz os santifique por completo; y todo vuestro ser... sea guardado irreprensible.",
+    "cita": "1 Tesalonicenses 5:23"
+  },
+  "03-30": {
+    "texto": "Porque no nos ha llamado Dios a inmundicia, sino a santificación.",
+    "cita": "1 Tesalonicenses 4:7"
+  },
+  "03-31": {
+    "texto": "Ciertamente el bien y la misericordia me seguirán todos los días de mi vida.",
+    "cita": "Salmo 23:6"
+  },
+  "04-01": {
+    "texto": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.",
+    "cita": "Juan 3:16"
+  },
+  "04-02": {
+    "texto": "Porque no envió Dios a su Hijo al mundo para condenar al mundo, sino para que el mundo sea salvo por él.",
+    "cita": "Juan 3:17"
+  },
+  "04-03": {
+    "texto": "El que cree en el Hijo tiene vida eterna; pero el que rehúsa creer en el Hijo no verá la vida.",
+    "cita": "Juan 3:36"
+  },
+  "04-04": {
+    "texto": "Jesús les dijo: Yo soy el pan de vida; el que a mí viene, nunca tendrá hambre.",
+    "cita": "Juan 6:35"
+  },
+  "04-05": {
+    "texto": "Todo lo que el Padre me da, vendrá a mí; y al que a mí viene, no le echo fuera.",
+    "cita": "Juan 6:37"
+  },
+  "04-06": {
+    "texto": "Y esta es la voluntad del que me ha enviado: Que todo aquel que ve al Hijo, y cree en él, tenga vida eterna.",
+    "cita": "Juan 6:40"
+  },
+  "04-07": {
+    "texto": "Otra vez Jesús les habló, diciendo: Yo soy la luz del mundo; el que me sigue, no andará en tinieblas.",
+    "cita": "Juan 8:12"
+  },
+  "04-08": {
+    "texto": "Y conoceréis la verdad, y la verdad os hará libres.",
+    "cita": "Juan 8:32"
+  },
+  "04-09": {
+    "texto": "Así que, si el Hijo os libertare, seréis verdaderamente libres.",
+    "cita": "Juan 8:36"
+  },
+  "04-10": {
+    "texto": "Yo soy la puerta; el que por mí entrare, será salvo; y entrará, y saldrá, y hallará pastos.",
+    "cita": "Juan 10:9"
+  },
+  "04-11": {
+    "texto": "El ladrón no viene sino para hurtar y matar y destruir; yo he venido para que tengan vida, y para que la tengan en abundancia.",
+    "cita": "Juan 10:10"
+  },
+  "04-12": {
+    "texto": "Yo soy el buen pastor; el buen pastor su vida da por las ovejas.",
+    "cita": "Juan 10:11"
+  },
+  "04-13": {
+    "texto": "Mis ovejas oyen mi voz, y yo las conozco, y me siguen, y yo les doy vida eterna.",
+    "cita": "Juan 10:27-28"
+  },
+  "04-14": {
+    "texto": "Le dijo Jesús: Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá.",
+    "cita": "Juan 11:25"
+  },
+  "04-15": {
+    "texto": "Y todo aquel que vive y cree en mí, no morirá eternamente. ¿Crees esto?",
+    "cita": "Juan 11:26"
+  },
+  "04-16": {
+    "texto": "Un mandamiento nuevo os doy: Que os améis unos a otros; como yo os he amó.",
+    "cita": "Juan 13:34"
+  },
+  "04-17": {
+    "texto": "En esto conocerán todos que sois mis discípulos, si tuviereis amor los unos con los otros.",
+    "cita": "Juan 13:35"
+  },
+  "04-18": {
+    "texto": "Jesús le dijo: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí.",
+    "cita": "Juan 14:6"
+  },
+  "04-19": {
+    "texto": "Si me amáis, guardad mis mandamientos.",
+    "cita": "Juan 14:15"
+  },
+  "04-20": {
+    "texto": "Y yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para siempre: el Espíritu de verdad.",
+    "cita": "Juan 14:16-17"
+  },
+  "04-21": {
+    "texto": "No os dejaré huérfanos; vendré a vosotros.",
+    "cita": "Juan 14:18"
+  },
+  "04-22": {
+    "texto": "El que tiene mis mandamientos, y los guarda, ese es el que me ama.",
+    "cita": "Juan 14:21"
+  },
+  "04-23": {
+    "texto": "Mas el Consolador, el Espíritu Santo... él os enseñará todas las cosas.",
+    "cita": "Juan 14:26"
+  },
+  "04-24": {
+    "texto": "Yo soy la vid verdadera, y mi Padre es el labrador.",
+    "cita": "Juan 15:1"
+  },
+  "04-25": {
+    "texto": "Permaneced en mí, y yo en vosotros. Como el pámpano no puede llevar fruto por sí mismo... tampoco vosotros.",
+    "cita": "Juan 15:4"
+  },
+  "04-26": {
+    "texto": "Yo soy la vid, vosotros los pámpanos; el que permanece en mí, y yo en él, este lleva mucho fruto.",
+    "cita": "Juan 15:5"
+  },
+  "04-27": {
+    "texto": "Si permanecéis en mí, y mis palabras permanecen en vosotros, pedid todo lo que queréis, y os será hecho.",
+    "cita": "Juan 15:7"
+  },
+  "04-28": {
+    "texto": "Como el Padre me ha amado, así también yo os he amado; permaneced en mi amor.",
+    "cita": "Juan 15:9"
+  },
+  "04-29": {
+    "texto": "Este es mi mandamiento: Que os améis unos a otros, como yo os he amado.",
+    "cita": "Juan 15:12"
+  },
+  "04-30": {
+    "texto": "Nadie tiene mayor amor que este, que uno ponga su vida por sus amigos.",
+    "cita": "Juan 15:13"
+  },
+  "05-01": {
+    "texto": "Vosotros sois mis amigos, si hacéis lo que yo os mando.",
+    "cita": "Juan 15:14"
+  },
+  "05-02": {
+    "texto": "No me elegisteis vosotros a mí, sino que yo os elegí a vosotros, y os he puesto para que vayáis y llevéis fruto.",
+    "cita": "Juan 15:16"
+  },
+  "05-03": {
+    "texto": "Estas cosas os he hablado para que en mí tengáis paz. En el mundo tendréis aflicción; pero confiad, yo he vencido al mundo.",
+    "cita": "Juan 16:33"
+  },
+  "05-04": {
+    "texto": "Y esta es la vida eterna: Que te conozcan a ti, el único Dios verdadero, y a Jesucristo, a quien has enviado.",
+    "cita": "Juan 17:3"
+  },
+  "05-05": {
+    "texto": "Santifícalos en tu verdad; tu palabra es verdad.",
+    "cita": "Juan 17:17"
+  },
+  "05-06": {
+    "texto": "Consumado es. Y habiendo inclinado la cabeza, entregó el espíritu.",
+    "cita": "Juan 19:30"
+  },
+  "05-07": {
+    "texto": "Jesús le dijo: Porque me has visto, Tomás, creíste; bienaventurados los que no vieron, y creyeron.",
+    "cita": "Juan 20:29"
+  },
+  "05-08": {
+    "texto": "Bienaventurado el varón que no anduvo en consejo de malos, ni estuvo en camino de pecadores.",
+    "cita": "Salmo 1:1"
+  },
+  "05-09": {
+    "texto": "Sino que en la ley del Señor está su delicia, y en su ley medita de día y de noche.",
+    "cita": "Salmo 1:2"
+  },
+  "05-10": {
+    "texto": "Será como árbol plantado junto a corrientes de aguas, que da su fruto en su tiempo, y su hoja no cae.",
+    "cita": "Salmo 1:3"
+  },
+  "05-11": {
+    "texto": "Porque el Señor conoce el camino de los justos; mas la senda de los malos perecerá.",
+    "cita": "Salmo 1:6"
+  },
+  "05-12": {
+    "texto": "Servid al Señor con temor, y alegraos con temblor.",
+    "cita": "Salmo 2:11"
+  },
+  "05-13": {
+    "texto": "Bienaventurados todos los que en él confían.",
+    "cita": "Salmo 2:12"
+  },
+  "05-14": {
+    "texto": "Mas tú, Jehová, eres escudo alrededor de mí; mi gloria, y el que levanta mi cabeza.",
+    "cita": "Salmo 3:3"
+  },
+  "05-15": {
+    "texto": "Con mi voz clamé al Señor, y él me respondió desde su monte santo.",
+    "cita": "Salmo 3:4"
+  },
+  "05-16": {
+    "texto": "Yo me acosté y dormí, y desperté, porque el Señor me sustentaba.",
+    "cita": "Salmo 3:5"
+  },
+  "05-17": {
+    "texto": "La salvación es del Señor; sobre tu pueblo sea tu bendición.",
+    "cita": "Salmo 3:8"
+  },
+  "05-18": {
+    "texto": "Respóndeme cuando clamo, oh Dios de mi justicia. Cuando estaba en angustia, tú me hiciste ensanchar.",
+    "cita": "Salmo 4:1"
+  },
+  "05-19": {
+    "texto": "Sabed, pues, que el Señor ha apartado al piadoso para sí; el Señor oirá cuando yo a él clame.",
+    "cita": "Salmo 4:3"
+  },
+  "05-20": {
+    "texto": "Temblad, y no pequéis; meditad en vuestro corazón estando en vuestra cama, y callad.",
+    "cita": "Salmo 4:4"
+  },
+  "05-21": {
+    "texto": "Ofreced sacrificios de justicia, y confiad en el Señor.",
+    "cita": "Salmo 4:5"
+  },
+  "05-22": {
+    "texto": "Tú diste alegría a mi corazón, mayor que la de ellos cuando abundaba su grano y su mosto.",
+    "cita": "Salmo 4:7"
+  },
+  "05-23": {
+    "texto": "En paz me acostaré, y asimismo dormiré; porque solo tú, Jehová, me haces vivir confiado.",
+    "cita": "Salmo 4:8"
+  },
+  "05-24": {
+    "texto": "Escucha, oh Señor, mi oración, considera mi gemir.",
+    "cita": "Salmo 5:1"
+  },
+  "05-25": {
+    "texto": "Oh Señor, de mañana oirás mi voz; de mañana me presentaré delante de ti, y esperaré.",
+    "cita": "Salmo 5:3"
+  },
+  "05-26": {
+    "texto": "Porque tú no eres un Dios que se complace en la maldad; el malo no habitará junto a ti.",
+    "cita": "Salmo 5:4"
+  },
+  "05-27": {
+    "texto": "Mas yo por la abundancia de tu misericordia entraré en tu casa; adoraré hacia tu santo templo.",
+    "cita": "Salmo 5:7"
+  },
+  "05-28": {
+    "texto": "Guíame, Señor, en tu justicia... endereza delante de mí tu camino.",
+    "cita": "Salmo 5:8"
+  },
+  "05-29": {
+    "texto": "Alégrense todos los que en ti confían; den voces de júbilo para siempre, porque tú los defiendes.",
+    "cita": "Salmo 5:11"
+  },
+  "05-30": {
+    "texto": "Porque tú, oh Señor, bendecirás al justo; como con un escudo lo rodearás de tu favor.",
+    "cita": "Salmo 5:12"
+  },
+  "05-31": {
+    "texto": "Misericordia, oh Señor, de mí, porque estoy debilitado; sáname, oh Señor.",
+    "cita": "Salmo 6:2"
+  },
+  "06-01": {
+    "texto": "El Señor ha oído mi ruego; ha recibido el Señor mi oración.",
+    "cita": "Salmo 6:9"
+  },
+  "06-02": {
+    "texto": "Señor Dios mío, en ti he confiado; sálvame de todos los que me persiguen, y líbrame.",
+    "cita": "Salmo 7:1"
+  },
+  "06-03": {
+    "texto": "Mi escudo está en Dios, que salva a los rectos de corazón.",
+    "cita": "Salmo 7:10"
+  },
+  "06-04": {
+    "texto": "Alabaré al Señor conforme a su justicia, y cantaré al nombre del Señor el Altísimo.",
+    "cita": "Salmo 7:17"
+  },
+  "06-05": {
+    "texto": "¡Oh Señor, Señor nuestro, cuán glorioso es tu nombre en toda la tierra!",
+    "cita": "Salmo 8:1"
+  },
+  "06-06": {
+    "texto": "De la boca de los niños y de los que maman, fundaste la fortaleza.",
+    "cita": "Salmo 8:2"
+  },
+  "06-07": {
+    "texto": "Cuando veo tus cielos, obra de tus dedos, la luna y las estrellas que tú formaste.",
+    "cita": "Salmo 8:3"
+  },
+  "06-08": {
+    "texto": "Digo: ¿Qué es el hombre, para que tengas de él memoria, y el hijo del hombre, para que lo visites?",
+    "cita": "Salmo 8:4"
+  },
+  "06-09": {
+    "texto": "Le has hecho poco menor que los ángeles, y lo coronaste de gloria y de honra.",
+    "cita": "Salmo 8:5"
+  },
+  "06-10": {
+    "texto": "Te alabaré, oh Señor, con todo mi corazón; contaré todas tus maravillas.",
+    "cita": "Salmo 9:1"
+  },
+  "06-11": {
+    "texto": "Me alegraré y me regocijaré en ti; cantaré a tu nombre, oh Altísimo.",
+    "cita": "Salmo 9:2"
+  },
+  "06-12": {
+    "texto": "El Señor será refugio al pobre, refugio para el tiempo de angustia.",
+    "cita": "Salmo 9:9"
+  },
+  "06-13": {
+    "texto": "En ti confiarán los que conocen tu nombre, por cuanto tú, oh Señor, no desamparaste a los que te buscaron.",
+    "cita": "Salmo 9:10"
+  },
+  "06-14": {
+    "texto": "Cantad al Señor, que habita en Sion; publicad entre los pueblos sus obras.",
+    "cita": "Salmo 9:11"
+  },
+  "06-15": {
+    "texto": "El Señor es Rey eternamente y para siempre.",
+    "cita": "Salmo 10:16"
+  },
+  "06-16": {
+    "texto": "El deseo de los humildes oíste, oh Señor; tú dispones su corazón, y haces atento tu oído.",
+    "cita": "Salmo 10:17"
+  },
+  "06-17": {
+    "texto": "En el Señor he confiado; ¿cómo decís a mi alma: Escapa cual ave al monte?",
+    "cita": "Salmo 11:1"
+  },
+  "06-18": {
+    "texto": "Porque el Señor es justo, y ama la justicia; el hombre recto mirará su rostro.",
+    "cita": "Salmo 11:7"
+  },
+  "06-19": {
+    "texto": "Las palabras del Señor son palabras limpias, como plata refinada en horno de tierra.",
+    "cita": "Salmo 12:6"
+  },
+  "06-20": {
+    "texto": "Tú, Señor, los guardarás; de esta generación los preservarás para siempre.",
+    "cita": "Salmo 12:7"
+  },
+  "06-21": {
+    "texto": "Mas yo en tu misericordia he confiado; mi corazón se alegrará en tu salvación.",
+    "cita": "Salmo 13:5"
+  },
+  "06-22": {
+    "texto": "Cantaré al Señor, porque me ha hecho bien.",
+    "cita": "Salmo 13:6"
+  },
+  "06-23": {
+    "texto": "Dice el necio en su corazón: No hay Dios. Se han corrompido, hacen obras abominables.",
+    "cita": "Salmo 14:1"
+  },
+  "06-24": {
+    "texto": "El Señor miró desde los cielos sobre los hijos de los hombres, para ver si había algún entendido.",
+    "cita": "Salmo 14:2"
+  },
+  "06-25": {
+    "texto": "Señor, ¿quién habitará en tu tabernáculo? ¿Quién residirá en tu monte santo?",
+    "cita": "Salmo 15:1"
+  },
+  "06-26": {
+    "texto": "El que anda en integridad y hace justicia, y habla verdad en su corazón.",
+    "cita": "Salmo 15:2"
+  },
+  "06-27": {
+    "texto": "El que no calumnia con su lengua, ni hace mal a su prójimo.",
+    "cita": "Salmo 15:3"
+  },
+  "06-28": {
+    "texto": "El que hace estas cosas, no resbalará jamás.",
+    "cita": "Salmo 15:5"
+  },
+  "06-29": {
+    "texto": "Guárdame, oh Dios, porque en ti he confiado.",
+    "cita": "Salmo 16:1"
+  },
+  "06-30": {
+    "texto": "Dije al Señor: Tú eres mi Señor; no hay para mí bien fuera de ti.",
+    "cita": "Salmo 16:2"
+  },
+  "07-01": {
+    "texto": "El Señor es la porción de mi herencia y de mi copa; tú sustentas mi suerte.",
+    "cita": "Salmo 16:5"
+  },
+  "07-02": {
+    "texto": "Las cuerdas me cayeron en lugares deleitosos, y es hermosa la heredad que me ha tocado.",
+    "cita": "Salmo 16:6"
+  },
+  "07-03": {
+    "texto": "Bendeciré al Señor que me aconseja; aun en las noches me enseña mi conciencia.",
+    "cita": "Salmo 16:7"
+  },
+  "07-04": {
+    "texto": "Al Señor he puesto siempre delante de mí; porque está a mi diestra, no seré conmovido.",
+    "cita": "Salmo 16:8"
+  },
+  "07-05": {
+    "texto": "Se alegró por tanto mi corazón, y se gozó mi alma; mi carne también descansará confiadamente.",
+    "cita": "Salmo 16:9"
+  },
+  "07-06": {
+    "texto": "Me mostrarás la senda de la vida; en tu presencia hay plenitud de gozo.",
+    "cita": "Salmo 16:11"
+  },
+  "07-07": {
+    "texto": "Sustenta mis pasos en tus caminos, para que mis pies no resbalen.",
+    "cita": "Salmo 17:5"
+  },
+  "07-08": {
+    "texto": "Yo te he invocado, por cuanto tú me oirás, oh Dios; inclina a mí tu oído, escucha mi palabra.",
+    "cita": "Salmo 17:6"
+  },
+  "07-09": {
+    "texto": "Muéstrame tus maravillosas misericordias, tú que salvas a los que se refugian a tu diestra.",
+    "cita": "Salmo 17:7"
+  },
+  "07-10": {
+    "texto": "Guárdame como a la niña de tus ojos; escóndeme bajo la sombra de tus alas.",
+    "cita": "Salmo 17:8"
+  },
+  "07-11": {
+    "texto": "En cuanto a mí, veré tu rostro en justicia; estaré satisfecho cuando despierte a tu semejanza.",
+    "cita": "Salmo 17:15"
+  },
+  "07-12": {
+    "texto": "Te amo, oh Señor, fortaleza mía.",
+    "cita": "Salmo 18:1"
+  },
+  "07-13": {
+    "texto": "El Señor es mi roca y mi fortaleza, y mi libertador; Dios mío, fortaleza mía, en él confiaré.",
+    "cita": "Salmo 18:2"
+  },
+  "07-14": {
+    "texto": "Invocaré al Señor, quien es digno de ser alabado, y seré salvo de mi enemigos.",
+    "cita": "Salmo 18:3"
+  },
+  "07-15": {
+    "texto": "En mi angustia invoqué al Señor, y clamé a mi Dios. Él oyó mi voz desde su templo.",
+    "cita": "Salmo 18:6"
+  },
+  "07-16": {
+    "texto": "En cuanto a Dios, perfecto es su camino, y acrisolada la palabra del Señor; escudo es a todos los que en él esperan.",
+    "cita": "Salmo 18:30"
+  },
+  "07-17": {
+    "texto": "¿Porque quién es Dios sino sólo el Señor? ¿Y qué roca hay fuera de nuestro Dios?",
+    "cita": "Salmo 18:31"
+  },
+  "07-18": {
+    "texto": "Dios es el que me ciñe de fuerza, y quien hace perfecto mi camino.",
+    "cita": "Salmo 18:32"
+  },
+  "07-19": {
+    "texto": "Quien hace mis pies como de ciervas, y me hace estar firme sobre mis alturas.",
+    "cita": "Salmo 18:33"
+  },
+  "07-20": {
+    "texto": "Me diste asimismo el escudo de tu salvación; tu diestra me sustentó, y tu benignidad me ha engrandecido.",
+    "cita": "Salmo 18:35"
+  },
+  "07-21": {
+    "texto": "Ensanchaste mis pasos debajo de mí, y mis pies no han resbalado.",
+    "cita": "Salmo 18:36"
+  },
+  "07-22": {
+    "texto": "Viva el Señor, y bendita sea mi roca, y enaltecido sea el Dios de mi salvación.",
+    "cita": "Salmo 18:46"
+  },
+  "07-23": {
+    "texto": "Por tanto yo te confesaré entre las naciones, oh Señor, y cantaré a tu nombre.",
+    "cita": "Salmo 18:49"
+  },
+  "07-24": {
+    "texto": "Los cielos cuentan la gloria de Dios, y el firmamento anuncia la obra de sus dedos.",
+    "cita": "Salmo 19:1"
+  },
+  "07-25": {
+    "texto": "Un día emite palabra a otro día, y una noche a otra noche declara sabiduría.",
+    "cita": "Salmo 19:2"
+  },
+  "07-26": {
+    "texto": "La ley del Señor es perfecta, que convierte el alma; el testimonio del Señor es fiel, que hace sabio al sencillo.",
+    "cita": "Salmo 19:7"
+  },
+  "07-27": {
+    "texto": "Los mandamientos del Señor son rectos, que alegran el corazón; el precepto del Señor es puro, que alumbra los ojos.",
+    "cita": "Salmo 19:8"
+  },
+  "07-28": {
+    "texto": "El temor del Señor es limpio, que permanece para siempre; los juicios del Señor son verdad, todos justos.",
+    "cita": "Salmo 19:9"
+  },
+  "07-29": {
+    "texto": "Deseables son más que el oro, y más que mucho oro refinado; y dulces más que miel.",
+    "cita": "Salmo 19:10"
+  },
+  "07-30": {
+    "texto": "Sean gratos los dichos de mi boca y la meditación de mi corazón delante de ti, oh Señor, roca mía.",
+    "cita": "Salmo 19:14"
+  },
+  "07-31": {
+    "texto": "El Señor te oiga en el día de la angustia; el nombre del Dios de Jacob te defienda.",
+    "cita": "Salmo 20:1"
+  },
+  "08-01": {
+    "texto": "Te envíe ayuda desde el santuario, y desde Sion te sostenga.",
+    "cita": "Salmo 20:2"
+  },
+  "08-02": {
+    "texto": "Conceda según tu corazón, y cumpla todo tu consejo.",
+    "cita": "Salmo 20:4"
+  },
+  "08-03": {
+    "texto": "Nosotros nos alegraremos en tu salvación, y alzaremos pendón en el nombre de nuestro Dios.",
+    "cita": "Salmo 20:5"
+  },
+  "08-04": {
+    "texto": "Estos confían en carros, y aquellos en caballos; mas nosotros del nombre del Señor nuestro Dios tendremos memoria.",
+    "cita": "Salmo 20:7"
+  },
+  "08-05": {
+    "texto": "Ellos flaquean y caen, mas nosotros nos levantamos, y estamos en pie.",
+    "cita": "Salmo 20:8"
+  },
+  "08-06": {
+    "texto": "Señor, en tu fuerza se alegrará el rey; y en tu salvación, ¡cómo se gozará!",
+    "cita": "Salmo 21:1"
+  },
+  "08-07": {
+    "texto": "Le has concedido el deseo de su corazón, y no le negaste la petición de sus labios.",
+    "cita": "Salmo 21:2"
+  },
+  "08-13": {
+    "texto": "Clamaron a ti, y fueron librados; esperaron en ti, y no fueron avergonzados.",
+    "cita": "Salmo 22:5"
+  },
+  "08-14": {
+    "texto": "Se acordarán, y se volverán al Señor todos los confines de la tierra.",
+    "cita": "Salmo 22:27"
+  },
+  "08-15": {
+    "texto": "Porque del Señor es el reino, y él regirá las naciones.",
+    "cita": "Salmo 22:28"
+  },
+  "08-16": {
+    "texto": "El Señor es mi shepherd; nada me faltará.",
+    "cita": "Salmo 23:1"
+  },
+  "08-17": {
+    "texto": "En lugares de delicados pastos me hará descansar; junto a aguas de reposo me pastoreará.",
+    "cita": "Salmo 23:2"
+  },
+  "08-18": {
+    "texto": "Confortará mi alma; me guiará por sendas de justicia por amor de su nombre.",
+    "cita": "Salmo 23:3"
+  },
+  "08-19": {
+    "texto": "Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás conmigo.",
+    "cita": "Salmo 23:4"
+  },
+  "08-20": {
+    "texto": "Aderezas mesa delante de mí en presencia de mis angustiadores; unges mi cabeza con aceite.",
+    "cita": "Salmo 23:5"
+  },
+  "08-21": {
+    "texto": "Ciertamente el bien y la misericordia me seguirán todos los días de mi vida.",
+    "cita": "Salmo 23:6"
+  },
+  "08-22": {
+    "texto": "Del Señor es la tierra y su plenitud; el mundo, y los que en él habitan.",
+    "cita": "Salmo 24:1"
+  },
+  "08-23": {
+    "texto": "¿Quién subirá al monte del Señor? ¿And quién estará en su lugar santo?",
+    "cita": "Salmo 24:3"
+  },
+  "08-24": {
+    "texto": "El limpio de manos y puro de corazón; el que no ha elevado su alma a cosas vanas.",
+    "cita": "Salmo 24:4"
+  },
+  "08-25": {
+    "texto": "Él recibirá bendición del Señor, y justicia del Dios de salvación.",
+    "cita": "Salmo 24:5"
+  },
+  "08-26": {
+    "texto": "Alzad, oh puertas, vuestras cabezas... y entrará el Rey de gloria.",
+    "cita": "Salmo 24:7"
+  },
+  "08-27": {
+    "texto": "¿Quién es este Rey de gloria? El Señor el fuerte y valiente, el Señor poderoso en batalla.",
+    "cita": "Salmo 24:8"
+  },
+  "08-28": {
+    "texto": "A ti, oh Señor, levantaré mi alma.",
+    "cita": "Salmo 25:1"
+  },
+  "08-29": {
+    "texto": "Dios mío, en ti confío; no sea yo avergonzado, no se alegren de mí mis enemigos.",
+    "cita": "Salmo 25:2"
+  },
+  "08-30": {
+    "texto": "Ciertamente ninguno de los que esperan en ti será confundido.",
+    "cita": "Salmo 25:3"
+  },
+  "08-31": {
+    "texto": "Muéstrame, oh Señor, tus caminos; enséñame tus sendas.",
+    "cita": "Salmo 25:4"
+  },
+  "09-01": {
+    "texto": "Encamíname en tu verdad, y enséñame, porque tú eres el Dios de mi salvación.",
+    "cita": "Salmo 25:5"
+  },
+  "09-02": {
+    "texto": "Acuérdate, oh Señor, de tus piedades y de tus misericordias, que son perpetuas.",
+    "cita": "Salmo 25:6"
+  },
+  "09-03": {
+    "texto": "De los pecados de mi juventud, y de mis rebeliones, no te acuerdes.",
+    "cita": "Salmo 25:7"
+  },
+  "09-04": {
+    "texto": "Bueno y recto es el Señor; por tanto, él enseñará a los pecadores el camino.",
+    "cita": "Salmo 25:8"
+  },
+  "09-05": {
+    "texto": "Encaminará a los humildes por el juicio, y enseñará a los mansos su carrera.",
+    "cita": "Salmo 25:9"
+  },
+  "09-06": {
+    "texto": "Todas las sendas del Señor son misericordia y verdad, para los que guardan su pacto.",
+    "cita": "Salmo 25:10"
+  },
+  "09-07": {
+    "texto": "Por amor de tu nombre, oh Señor, perdonarás también mi pecado, que es grande.",
+    "cita": "Salmo 25:11"
+  },
+  "09-12": {
+    "texto": "Mira mi aflicción y mi trabajo, y perdona todos mi pecados.",
+    "cita": "Salmo 25:18"
+  },
+  "09-13": {
+    "texto": "Guarda mi alma, y líbrame; no sea yo avergonzado, porque en ti confié.",
+    "cita": "Salmo 25:10"
+  },
+  "09-14": {
+    "texto": "Integridad y rectitud me guarden, porque en ti he esperado.",
+    "cita": "Salmo 25:21"
+  },
+  "09-15": {
+    "texto": "Júzgame, oh Señor, porque yo en mi integridad he andado; he confiado asimismo en el Señor sin titubear.",
+    "cita": "Salmo 26:1"
+  },
+  "09-16": {
+    "texto": "Escudríñame, oh Señor, y pruébame; examina mis íntimos pensamientos y mi corazón.",
+    "cita": "Salmo 26:2"
+  },
+  "09-17": {
+    "texto": "Porque tu misericordia está delante de mi ojos, y ando en tu verdad.",
+    "cita": "Salmo 26:3"
+  },
+  "09-18": {
+    "texto": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo.",
+    "cita": "Isaías 41:10"
+  },
+  "09-19": {
+    "texto": "El amor es sufrido, es benigno; el amor no tiene envidia; el amor no es jactancioso, no se envanece.",
+    "cita": "1 Corintios 13:4"
+  },
+  "09-20": {
+    "texto": "En el día que temo, yo en ti confío. En Dios alabaré su palabra.",
+    "cita": "Salmo 56:3"
+  },
+  "09-21": {
+    "texto": "La blanda respuesta quita la ira; mas la palabra áspera hace subir el furor.",
+    "cita": "Proverbios 15:1"
+  },
+  "09-22": {
+    "texto": "Dad gracias en todo, porque esta es la voluntad de Dios para con vosotros en Cristo Jesús.",
+    "cita": "1 Tesalonicenses 5:18"
+  },
+  "09-23": {
+    "texto": "Jehová es bueno, fortaleza en el día de la angustia; y conoce a los que en él confían.",
+    "cita": "Nahúm 1:7"
+  },
+  "09-24": {
+    "texto": "El que camina en integridad anda confiado; mas el que pervierte sus caminos será quebrantado.",
+    "cita": "Proverbios 10:9"
+  },
+  "09-25": {
+    "texto": "Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración.",
+    "cita": "Filipenses 4:6"
+  },
+  "09-26": {
+    "texto": "Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones.",
+    "cita": "Filipenses 4:7"
+  },
+  "09-27": {
+    "texto": "Bueno es el Señor para con los que en él esperan, para el alma que le busca.",
+    "cita": "Lamentaciones 3:25"
+  },
+  "09-28": {
+    "texto": "De cierto, de cierto os digo: El que cree en mí, tiene vida eterna.",
+    "cita": "Juan 6:47"
+  },
+  "09-29": {
+    "texto": "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.",
+    "cita": "Mateo 6:33"
+  },
+  "09-30": {
+    "texto": "Acerquémonos, pues, confiadamente al trono de la gracia, para alcanzar misericordia.",
+    "cita": "Hebreos 4:16"
+  },
+  "10-01": {
+    "texto": "Aguarda al Señor; esfuérzate, y aliéntese tu corazón; sí, espera al Señor.",
+    "cita": "Salmo 27:14"
+  },
+  "10-02": {
+    "texto": "A ti clamaré, oh Señor. Roca mía, no te desentiendas de mí.",
+    "cita": "Salmo 28:1"
+  },
+  "10-03": {
+    "texto": "Oye la voz de mis ruegos cuando clamo a ti, cuando alzo mis manos hacia tu santo templo.",
+    "cita": "Salmo 28:2"
+  },
+  "10-04": {
+    "texto": "Bendito sea el Señor, que oyó la voz de mi ruegos.",
+    "cita": "Salmo 28:6"
+  },
+  "10-05": {
+    "texto": "El Señor es mi fuerza y mi escudo; en él confió mi corazón, y fui ayudado.",
+    "cita": "Salmo 28:7"
+  },
+  "10-06": {
+    "texto": "El Señor es la fuerza de su pueblo, y el refugio salvador de su ungido.",
+    "cita": "Salmo 28:8"
+  },
+  "10-07": {
+    "texto": "Salva a tu pueblo, y bendice a tu heredad; y pastoréales y enaltéceles para siempre.",
+    "cita": "Salmo 28:9"
+  },
+  "10-08": {
+    "texto": "Tributad al Señor, oh hijos de los poderosos, tributad al Señor la gloria y el poder.",
+    "cita": "Salmo 29:1"
+  },
+  "10-09": {
+    "texto": "Dad al Señor la gloria debida a su nombre; adorad al Señor en la hermosura de la santidad.",
+    "cita": "Salmo 29:2"
+  },
+  "10-10": {
+    "texto": "Voz del Señor sobre las aguas; truena el Dios de gloria.",
+    "cita": "Salmo 29:3"
+  },
+  "10-11": {
+    "texto": "La voz del Señor es potente; la voz del Señor es llena de majestad.",
+    "cita": "Salmo 29:4"
+  },
+  "10-12": {
+    "texto": "El Señor preside en el diluvio, y se sienta el Señor como rey para siempre.",
+    "cita": "Salmo 29:10"
+  },
+  "10-13": {
+    "texto": "El Señor dará fuerza a su pueblo; el Señor bendecirá a su pueblo con paz.",
+    "cita": "Salmo 29:11"
+  },
+  "10-14": {
+    "texto": "Te exaltaré, oh Señor, porque me has levantado, y no compraste a mis enemigos alegría de mí.",
+    "cita": "Salmo 30:1"
+  },
+  "10-15": {
+    "texto": "Señor Dios mío, clamé a ti, y me sanaste.",
+    "cita": "Salmo 30:2"
+  },
+  "10-16": {
+    "texto": "Cantad al Señor, vosotros sus santos, y celebrad la memoria de su santidad.",
+    "cita": "Salmo 30:4"
+  },
+  "10-17": {
+    "texto": "Porque un momento será su ira, pero su favor dura toda la vida.",
+    "cita": "Salmo 30:5"
+  },
+  "10-18": {
+    "texto": "Oye, oh Señor, y ten misericordia de mí; Señor, sé mi ayuda.",
+    "cita": "Salmo 30:11"
+  },
+  "10-19": {
+    "texto": "Has cambiado mi lamento en baile; desataste mi cilicio, y me ceñiste de alegría.",
+    "cita": "Salmo 30:11"
+  },
+  "10-20": {
+    "texto": "Por tanto, a ti cantaré, gloria mía, y no estaré callado. Señor Dios mío, te alabaré para siempre.",
+    "cita": "Salmo 30:12"
+  },
+  "10-21": {
+    "texto": "En ti, oh Señor, he confiado; no sea yo avergonzado jamás; líbrame en tu justicia.",
+    "cita": "Salmo 31:1"
+  },
+  "10-22": {
+    "texto": "Inclina a mí tu oído, líbrame pronto; sé mi roca de refugio, y fortaleza para salvarme.",
+    "cita": "Salmo 31:2"
+  },
+  "10-23": {
+    "texto": "Porque tú eres mi roca y mi castillo; por tu nombre me guiarás y me encaminarás.",
+    "cita": "Salmo 31:3"
+  },
+  "10-24": {
+    "texto": "En tu mano encomiendo mi espíritu; tú me has redimido, oh Señor, Dios de verdad.",
+    "cita": "Salmo 31:5"
+  },
+  "10-25": {
+    "texto": "Me gozaré y alegraré en tu misericordia, porque has visto mi aflicción.",
+    "cita": "Salmo 31:7"
+  },
+  "10-26": {
+    "texto": "Mas yo en ti confío, oh Señor; digo: Tú eres mi Dios.",
+    "cita": "Salmo 31:14"
+  },
+  "10-27": {
+    "texto": "En tu mano están mis tiempos; líbrame de la mano de mi enemigos.",
+    "cita": "Salmo 31:15"
+  },
+  "10-28": {
+    "texto": "Haz resplandecer tu rostro sobre tu siervo; sálvame por tu misericordia.",
+    "cita": "Salmo 31:16"
+  },
+  "10-29": {
+    "texto": "¡Cuán grande es tu bondad, que has guardado para los que te temen!",
+    "cita": "Salmo 31:19"
+  },
+  "10-30": {
+    "texto": "Amad al Señor, vosotros todos sus santos; a los fieles guarda el Señor.",
+    "cita": "Salmo 31:23"
+  },
+  "10-31": {
+    "texto": "Esforzaos todos vosotros los que esperáis en el Señor, y tome aliento vuestro corazón.",
+    "cita": "Salmo 31:24"
+  },
+  "11-01": {
+    "texto": "Bienaventurado aquel cuya transgresión ha sido perdonada, y cubierto su pecado.",
+    "cita": "Salmo 32:1"
+  },
+  "11-02": {
+    "texto": "Bienaventurado el hombre a quien el Señor no culpa de iniquidad, y en cuyo espíritu no hay engaño.",
+    "cita": "Salmo 32:2"
+  },
+  "11-03": {
+    "texto": "Mi pecado te declaré, y no encubrí mi iniquidad... Y tú perdonaste la maldad de mi pecado.",
+    "cita": "Salmo 32:5"
+  },
+  "11-04": {
+    "texto": "Tú eres mi refugio; me guardarás de la angustia; con cánticos de liberación me rodearás.",
+    "cita": "Salmo 32:7"
+  },
+  "11-05": {
+    "texto": "Te haré entender, y te enseñaré el camino en que debes andar; sobre ti fijaré mis ojos.",
+    "cita": "Salmo 32:8"
+  },
+  "11-06": {
+    "texto": "Muchos dolores habrán para el impío; mas al que espera en el Señor, le rodea la misericordia.",
+    "cita": "Salmo 32:10"
+  },
+  "11-07": {
+    "texto": "Alegraos en el Señor y gozaos, justos; y cantad con júbilo todos vosotros los rectos de corazón.",
+    "cita": "Salmo 32:11"
+  },
+  "11-08": {
+    "texto": "Alegraos, oh justos, en el Señor; en los íntegros es hermosa la alabanza.",
+    "cita": "Salmo 33:1"
+  },
+  "11-09": {
+    "texto": "Porque recta es la palabra del Señor, y toda su obra es hecha con fidelidad.",
+    "cita": "Salmo 33:4"
+  },
+  "11-10": {
+    "texto": "Él ama justicia y juicio; de la misericordia del Señor está llena la tierra.",
+    "cita": "Salmo 33:5"
+  },
+  "11-11": {
+    "texto": "Por la palabra del Señor fueron hechos los cielos, y todo el ejército de ellos por el aliento de su boca.",
+    "cita": "Salmo 33:6"
+  },
+  "11-12": {
+    "texto": "Tema al Señor toda la tierra; teman delante de él todos los habitantes del mundo.",
+    "cita": "Salmo 33:8"
+  },
+  "11-13": {
+    "texto": "Porque él dijo, y fue hecho; él mandó, y existió.",
+    "cita": "Salmo 33:9"
+  },
+  "11-14": {
+    "texto": "El consejo del Señor permanecerá para siempre; los pensamientos de su corazón por todas las generaciones.",
+    "cita": "Salmo 33:11"
+  },
+  "11-15": {
+    "texto": "Bienaventurada la nación cuyo Dios es el Señor, el pueblo que él escogió para su heredad.",
+    "cita": "Salmo 33:12"
+  },
+  "11-16": {
+    "texto": "He aquí el ojo del Señor sobre los que le temen, sobre los que esperan en su misericordia.",
+    "cita": "Salmo 33:18"
+  },
+  "11-17": {
+    "texto": "Nuestra alma espera al Señor; nuestra ayuda y nuestro escudo es él.",
+    "cita": "Salmo 33:20"
+  },
+  "11-18": {
+    "texto": "Por tanto, en él se alegrará nuestro corazón, porque hemos confiado en su santo nombre.",
+    "cita": "Salmo 33:21"
+  },
+  "11-19": {
+    "texto": "Sea tu misericordia, oh Señor, sobre nosotros, según esperamos en ti.",
+    "cita": "Salmo 33:22"
+  },
+  "11-20": {
+    "texto": "Bendeciré al Señor en todo tiempo; su alabanza estará de continuo en mi boca.",
+    "cita": "Salmo 34:1"
+  },
+  "11-21": {
+    "texto": "En el Señor se gloriará mi alma; lo oirán los mansos, y se alegrarán.",
+    "cita": "Salmo 34:2"
+  },
+  "11-22": {
+    "texto": "Engrandeced al Señor conmigo, y exaltemos a una su nombre.",
+    "cita": "Salmo 34:3"
+  },
+  "11-23": {
+    "texto": "Busqué al Señor, y él me respondió, y me libró de todos mi temores.",
+    "cita": "Salmo 34:4"
+  },
+  "11-24": {
+    "texto": "Los que miraron a él fueron alumbrados, y sus rostros no fueron avergonzados.",
+    "cita": "Salmo 34:5"
+  },
+  "11-25": {
+    "texto": "Este pobre clamó, y le oyó el Señor, y lo libró de todas sus angustias.",
+    "cita": "Salmo 34:6"
+  },
+  "11-26": {
+    "texto": "El ángel del Señor acampa alrededor de los que le temen, y los defiende.",
+    "cita": "Salmo 34:7"
+  },
+  "11-27": {
+    "texto": "Gustad, y ved que es bueno el Señor; dichoso el hombre que confía en él.",
+    "cita": "Salmo 34:8"
+  },
+  "11-28": {
+    "texto": "Temed al Señor, vosotros sus santos, pues nada falta a los que le temen.",
+    "cita": "Salmo 34:9"
+  },
+  "11-29": {
+    "texto": "Los leoncillos necesitan, y tienen hambre; pero los que buscan al Señor no tendrán falta de ningún bien.",
+    "cita": "Salmo 34:10"
+  },
+  "11-30": {
+    "texto": "Claman los justos, y el Señor oye, y los libra de todas sus angustias.",
+    "cita": "Salmo 34:17"
+  },
+  "12-01": {
+    "texto": "Cercano está el Señor a los quebrantados de corazón; y salva a los contritos de espíritu.",
+    "cita": "Salmo 34:18"
+  },
+  "12-02": {
+    "texto": "Muchas son las aflicciones del justo, pero de todas ellas le librará el Señor.",
+    "cita": "Salmo 34:19"
+  },
+  "12-03": {
+    "texto": "El Señor redime el alma de sus siervos, y no serán condenados cuantos en él confían.",
+    "cita": "Salmo 34:22"
+  },
+  "12-04": {
+    "texto": "Señor, hasta los cielos llega tu misericordia, y tu fidelidad alcanza a las nubes.",
+    "cita": "Salmo 36:5"
+  },
+  "12-05": {
+    "texto": "Tu justicia es como los montes de Dios... Oh Señor, al hombre y al animal conservas.",
+    "cita": "Salmo 36:6"
+  },
+  "12-06": {
+    "texto": "¡Cuán preciosa, oh Dios, es tu misericordia! Por eso los hijos de los hombres se amparan bajo la sombra de tus alas.",
+    "cita": "Salmo 36:7"
+  },
+  "12-07": {
+    "texto": "Porque contigo está manantial de la vida; en tu luz veremos la luz.",
+    "cita": "Salmo 36:9"
+  },
+  "12-08": {
+    "texto": "No te impacientes a causa de los malignos, ni tengas envidia de los que hacen iniquidad.",
+    "cita": "Salmo 37:1"
+  },
+  "12-09": {
+    "texto": "Confía en el Señor, and haz el bien; y habitarás en la tierra, y te pastorearás de la verdad.",
+    "cita": "Salmo 37:3"
+  },
+  "12-10": {
+    "texto": "Deléitate asimismo en el Señor, y él te concederá las peticiones de tu corazón.",
+    "cita": "Salmo 37:4"
+  },
+  "12-11": {
+    "texto": "Encomienda al Señor tu camino, y confía en él; y él hará.",
+    "cita": "Salmo 37:5"
+  },
+  "12-12": {
+    "texto": "Exhibirá tu justicia como la luz, y tu derecho como el mediodía.",
+    "cita": "Salmo 37:6"
+  },
+  "12-13": {
+    "texto": "Guarda silencio ante el Señor, y espera en él con paciencia.",
+    "cita": "Salmo 37:7"
+  },
+  "12-14": {
+    "texto": "Deja la ira, y depón el furor; no te excites en manera alguna a hacer lo malo.",
+    "cita": "Salmo 37:8"
+  },
+  "12-15": {
+    "texto": "Pero los mansos heredarán la tierra, y se recrearán con abundancia de paz.",
+    "cita": "Salmo 37:11"
+  },
+  "12-16": {
+    "texto": "Mejor es lo poco del justo, que las riquezas de muchos pecadores.",
+    "cita": "Salmo 37:16"
+  },
+  "12-17": {
+    "texto": "Conoce el Señor los días de los perfectos, y la heredad de ellos será para siempre.",
+    "cita": "Salmo 37:18"
+  },
+  "12-18": {
+    "texto": "Por el Señor son ordenados los pasos del hombre, y él aprueba su camino.",
+    "cita": "Salmo 37:23"
+  },
+  "12-19": {
+    "texto": "Cuando el hombre cayere, no quedará postrado, porque el Señor sostiene su mano.",
+    "cita": "Salmo 37:24"
+  },
+  "12-20": {
+    "texto": "Joven fui, y he envejecido, y no he visto justo desamparado, ni su descendencia que mendigue pan.",
+    "cita": "Salmo 37:25"
+  },
+  "12-21": {
+    "texto": "Apartate del mal, y haz el bien, y vivirás para siempre.",
+    "cita": "Salmo 37:27"
+  },
+  "12-22": {
+    "texto": "La boca del justo habla sabiduría, y su lengua habla justicia.",
+    "cita": "Salmo 37:30"
+  },
+  "12-23": {
+    "texto": "La ley de su Dios está en su corazón; por tanto, sus pasos no resbalarán.",
+    "cita": "Salmo 37:31"
+  },
+  "12-24": {
+    "texto": "Espera en el Señor, y guarda su camino, y él te exaltará para heredar la tierra.",
+    "cita": "Salmo 37:34"
+  },
+  "12-25": {
+    "texto": "Considera al íntegro, y mira al justo; porque hay un final dichoso para el hombre de paz.",
+    "cita": "Salmo 37:37"
+  },
+  "12-26": {
+    "texto": "Pero la salvación de los justos es del Señor, y él es su fortaleza en el tiempo de angustia.",
+    "cita": "Salmo 37:39"
+  },
+  "12-27": {
+    "texto": "El Señor los ayudará y los librará... por cuanto en él esperaron.",
+    "cita": "Salmo 37:40"
+  },
+  "12-28": {
+    "texto": "Señor, delante de ti están todos mi deseos, y mi suspiro no te es oculto.",
+    "cita": "Salmo 38:9"
+  },
+  "12-29": {
+    "texto": "Porque en ti, oh Señor, he esperado; tú responderás, Señor Dios mío.",
+    "cita": "Salmo 38:15"
+  },
+  "12-30": {
+    "texto": "Hazme saber, oh Señor, mi fin, y cuánta sea la medida de mi días; sepa yo cuán frágil soy.",
+    "cita": "Salmo 39:4"
+  },
+  "12-31": {
+    "texto": "Y ahora, Señor, ¿qué esperaré? Mi esperanza está en ti.",
+    "cita": "Salmo 39:7"
+  }
+}
