@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"
+    />
+    <title>Mi Espacio - Agenda Inteligente</title>
+
+    <!-- Vinculación de Estilos CSS -->
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- Fuente moderna desde Google Fonts -->
+    <link href="https://googleapis.com" rel="stylesheet" />
+
+    <!-- CONFIGURACIÓN PWA PARA INSTALACIÓN EN MÓVIL -->
+    <link rel="manifest" href="manifest.json" />
+
+    <!-- Optimización y compatibilidad para iOS (Safari / iPhone) -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <meta name="apple-mobile-web-app-title" content="Mi Espacio" />
+    <!-- Vinculación del nuevo logotipo para pantallas Apple -->
+    <link rel="apple-touch-icon" href="./logo.png" />
+
+    <!-- Color de la barra de estado en Android -->
+    <meta name="theme-color" content="#5e5ce6" />
+  </head>
+  <body class="theme-aurora">
+    <!-- Contenedor Principal (Estilo Maqueta de Teléfono) -->
+    <div class="phone-container">
+      <!-- Barra de Configuración de Usuario Superior -->
+      <div class="user-settings-bar">
+        <!-- Selectores de Paleta de Colores de Fondo -->
+        <div class="palette-picker">
+          <button
+            class="palette-dot aurora"
+            onclick="changeTheme('theme-aurora')"
+            title="Aurora"
+          ></button>
+          <button
+            class="palette-dot sunset"
+            onclick="changeTheme('theme-sunset')"
+            title="Atardecer"
+          ></button>
+          <button
+            class="palette-dot ocean"
+            onclick="changeTheme('theme-ocean')"
+            title="Océano"
+          ></button>
+          <button
+            class="palette-dot forest"
+            onclick="changeTheme('theme-forest')"
+            title="Bosque"
+          ></button>
+        </div>
+        <!-- Interruptor de Modo Oscuro -->
+        <button
+          class="dark-mode-toggle"
+          id="darkModeToggle"
+          title="Cambiar Modo"
+        >
+          🌙
+        </button>
+      </div>
+
+      <!-- Encabezado de la Aplicación con Logotipo Oficial integrado -->
+      <header class="app-header">
+        <div>
+          <h1>Mi Espacio</h1>
+          <p class="subtitle">Agenda Inteligente 📋</p>
+        </div>
+        <!-- El emoji previo fue reemplazado por la imagen del logo -->
+        <div class="profile-icon">
+          <img
+            src="./logo.png"
+            alt="Logo Mi Espacio"
+            style="
+              width: 100%;
+              height: 100%;
+              border-radius: 50%;
+              object-fit: cover;
+            "
+          />
+        </div>
+      </header>
+
+      <!-- Sección: Palabra del Día con Acción de Copiado -->
+      <section class="card word-of-the-day">
+        <div class="word-header">
+          <span class="badge badge-purple">Palabra del Día</span>
+          <button class="share-btn" id="copyVerseBtn" title="Copiar Versículo">
+            📋 Copiar
+          </button>
+        </div>
+        <blockquote class="quote" id="dailyQuote">
+          "Cargando el versículo del día..."
+        </blockquote>
+        <cite class="author" id="dailyAuthor"></cite>
+      </section>
+
+      <!-- Sección: Reuniones de Hoy -->
+      <section class="section-container">
+        <h2 class="section-title">📅 Reuniones de Hoy</h2>
+        <div class="events-list" id="eventsContainer"></div>
+      </section>
+
+      <!-- Sección: Tareas Pendientes -->
+      <section class="section-container">
+        <h2 class="section-title">✅ Tareas Pendientes</h2>
+        <div class="card tasks-card" id="tasksContainer"></div>
+      </section>
+
+      <!-- Menú Flotante Desplegable de Creación (FAB) -->
+      <div class="fab-wrapper" id="fabWrapper">
+        <div class="fab-options">
+          <button class="fab-sub-button" onclick="openModal('task')">
+            📝 <span>Nueva Tarea</span>
+          </button>
+          <button class="fab-sub-button" onclick="openModal('event')">
+            📅 <span>Nueva Reunión</span>
+          </button>
+        </div>
+        <button class="fab-main-button" id="fabMainBtn">+</button>
+      </div>
+    </div>
+
+    <!-- Ventana Modal Estilizada -->
+    <div class="modal-overlay" id="customModal">
+      <div class="modal-content">
+        <h3 id="modalTitle">Nuevo Elemento</h3>
+        <div class="modal-form">
+          <div class="form-group">
+            <label for="inputTitle">Título / Descripción</label>
+            <input
+              type="text"
+              id="inputTitle"
+              placeholder="Ej: Comprar café para la oficina"
+            />
+          </div>
+          <div class="form-group">
+            <label for="inputTime">Hora de la Alerta</label>
+            <input type="time" id="inputTime" />
+          </div>
+
+          <!-- Selector Exclusivo de Categorías de Color -->
+          <div class="form-group">
+            <label>Categoría</label>
+            <div class="color-selector">
+              <label class="color-option urgent">
+                <input
+                  type="radio"
+                  name="categoryColor"
+                  value="urgent"
+                  checked
+                />
+                <span class="color-dot"></span>
+              </label>
+              <label class="color-option work">
+                <input type="radio" name="categoryColor" value="work" />
+                <span class="color-dot"></span>
+              </label>
+              <label class="color-option personal">
+                <input type="radio" name="categoryColor" value="personal" />
+                <span class="color-dot"></span>
+              </label>
+            </div>
+          </div>
+
+          <div class="modal-actions">
+            <button class="btn btn-cancel" onclick="closeModal()">
+              Cancelar
+            </button>
+            <button class="btn btn-save" id="btnSave">Guardar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Contenedor Flotante para Notificaciones en Pantalla (Toasts) -->
+    <div class="toast-container" id="toastContainer"></div>
+
+    <!-- REGISTRO CENTRAL DE ARCHIVOS JAVASCRIPT -->
+    <script src="verses.js"></script>
+    <script src="script.js"></script>
+
+    <!-- SCRIPT DE ACTIVACIÓN PWA -->
+    <script>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", () => {
+          navigator.serviceWorker
+            .register("sw.js")
+            .then((reg) =>
+              console.log("Service Worker registrado correctamente.", reg),
+            )
+            .catch((err) =>
+              console.error("Fallo al registrar el Service Worker:", err),
+            );
+        });
+      }
+    </script>
+  </body>
+</html>

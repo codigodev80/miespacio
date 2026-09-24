@@ -1,0 +1,18 @@
+{
+  "name": "Mi Espacio",
+  "short_name": "Mi Espacio",
+  "description": "Agenda privada e inteligente con versículo diario, tareas y reuniones.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme-color": "#5e5ce6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
